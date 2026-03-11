@@ -1,0 +1,13 @@
+{
+  "name": "home-service-system",
+  "version": "1.0.0",
+  "description": "Home Service System - Returns system hostname and info",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js"
+  },
+  "keywords": ["home-service", "hostname", "nodejs"],
+  "author": "Your Name",
+  "license": "MIT"
+}
